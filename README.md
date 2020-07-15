@@ -41,6 +41,8 @@ Now add your desire link in Link field. Suppose, We are gonna add 'https://www.k
 
 ## Is it Working? 
 
+Now we are gonna test qcode.png file. Go to https://online-barcode-reader.inliteresearch.com/ and then upload qcode.png file.
+
 ![Screencast-2020-07-16-01-11-13-o](https://user-images.githubusercontent.com/12425488/87586247-14243280-c702-11ea-8f44-580eb40bbdf6.gif)
 
 Hurrah! It's working :D 
