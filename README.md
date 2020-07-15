@@ -1,6 +1,6 @@
 # Simple QR Code Generator GUI APP 
 
-It's simple application for generate web Link to QR Code.  
+It's a simple application for generating web Link to QR codes. 
 
 ## Getting Started
 
