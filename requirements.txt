@@ -1,2 +1,3 @@
-qrcode==6.1
-Pillow==7.2.0
+qrcode
+Pillow
+# OR type pip install "qrcode[pil]" into your terminal
