@@ -54,5 +54,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 ## Authors
 
 * **Jahid Hasan** - [msjahid](https://github.com/msjahid)
+* Forked/Modified by - **Daemon** - [daethyra](https://github.com/daethyra)
 
 For any inquiries, feel free to open up an issue.
