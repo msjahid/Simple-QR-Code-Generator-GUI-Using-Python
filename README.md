@@ -7,18 +7,18 @@ It's a simple application for generating web Link to QR codes.
 To start, clone the present repository into your local machine. If you're unaware of how to achieve this, you can familiarise yourself with the mechanisms of GitHub repositories in the provided link.
 
 ```
-git clone git@github.com:msjahid/Simple-QR-Code-Generator-GUI-Using-Python.git
+git clone https://github.com/Daethyra/QR-Gen-GUI.git
 ```
 ### Prerequisites
-Ensure that you have [Python3](https://www.python.org/download/releases/3.0/), and [tkinter](https://docs.python.org/3/library/tkinter.html) installed and properly set up. 
+Ensure that you have [Python3](https://www.python.org/download/releases/3.0/), and [tkinter](https://docs.python.org/3/library/tkinter.html) should already be installed and properly set up alongside Python3. 
 
 #### Installing Python Package
 
 We need Install some python pip packages. 
 
 ```bash
-qrcode==6.1
-Pillow==7.2.0
+qrcode
+Pillow
 ```
 
 #### Pip install Instructions
@@ -45,7 +45,7 @@ Now we are gonna test qcode.png file. Go to https://online-barcode-reader.inlite
 
 ![Screencast-2020-07-16-01-11-13-o](https://user-images.githubusercontent.com/12425488/87586247-14243280-c702-11ea-8f44-580eb40bbdf6.gif)
 
-Hurrah! It's working :D 
+PogChamp! It's working x)
 
 ## License
 
