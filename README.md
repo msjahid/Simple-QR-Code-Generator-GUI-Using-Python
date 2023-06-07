@@ -49,7 +49,9 @@ Hurrah! It's working :D
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/msjahid/Simple-QR-Code-Generator-GUI-Using-Python/blob/master/LICENSE) file for details
+This project is originally licensed under the MIT License - see the [LICENSE.md](https://github.com/msjahid/Simple-QR-Code-Generator-GUI-Using-Python/blob/master/LICENSE) file for details. 
+
+**Notice**: This forked version and all future contributions by [Daemon](https://github.com/daethyra) are licensed under the Affero General Public License (AGPL). See the [LICENSE-AGPL](https://github.com/daethyra/Simple-QR-Code-Generator-GUI-Using-Python/blob/master/LICENSE-AGPL) file for details.
 
 ## Authors
 
